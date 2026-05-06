@@ -7,35 +7,25 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: 联系我们
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        欢迎对单细胞组学、空间组学、纳米孔测序、生物信息学及人工智能等领域感兴趣的研究者联系田鲁亦课题组。课题组长期招募副研究员、博士后及研究实习员，欢迎垂询。
+      email: tian_luyi@gzlab.ac.cn
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 广州市黄埔区健康城
+        city: 广州
+        region: 广东省
+        postcode: '510700'
+        country: 中国
+        country_code: CN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
+        latitude: '23.1291'
+        longitude: '113.2644'
+      directions: 广州实验室，广东省广州市黄埔区
+
       # Automatically link email and phone or display as text?
       autolink: true
-    
+
       # Email form provider
       form:
         provider: netlify
@@ -55,7 +45,7 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
+        image:
           filename: contact.jpg
           filters:
             brightness: 1
