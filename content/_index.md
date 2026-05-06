@@ -8,18 +8,18 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        广州实验室
+        田鲁亦课题组
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+
+        **田鲁亦课题组**依托广州实验室，专注于单细胞组学、空间组学与纳米孔测序新技术及数据分析算法的开发，致力于解析免疫系统的时空调控机制及其在呼吸系统疾病中的作用。课题组于2022年11月正式成立。
+
   - block: collection
     content:
-      title: Latest News
+      title: 最新动态
       subtitle:
       text:
       count: 5
@@ -35,7 +35,7 @@ sections:
     design:
       view: card
       columns: '1'
-  
+
   - block: markdown
     content:
       title:
@@ -44,7 +44,7 @@ sections:
     design:
       columns: '1'
       background:
-        image: 
+        image:
           filename: coders.jpg
           filters:
             brightness: 1
@@ -58,7 +58,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: 最新论文
       text: ""
       count: 5
       filters:
@@ -74,7 +74,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="认识团队 →" %}}
     design:
       columns: '1'
 ---

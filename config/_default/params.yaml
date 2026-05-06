@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    description: '广州实验室田鲁亦课题组，专注于单细胞组学、空间组学与纳米孔测序新技术及数据分析算法的开发，研究免疫系统时空调控与呼吸系统疾病。'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -45,12 +45,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} 广州实验室田鲁亦课题组. 保留所有权利。'
     license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+      enable: false
 
 # Localization
 

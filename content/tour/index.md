@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: 概览
 date: 2022-10-24
 
 type: landing
@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 欢迎来到田鲁亦课题组
+        content: 探索我们在单细胞组学、空间组学与纳米孔测序领域的前沿研究……
         align: center
         background:
           image:
@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 学术交流 ☕️
+        content: '分享知识，共同探索激动人心的前沿科学问题！'
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: 广州实验室
+        content: '坐落于广州市，致力于推动呼吸系统疾病防治研究。'
         align: right
         background:
           image:
@@ -41,7 +41,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: 加入我们
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
